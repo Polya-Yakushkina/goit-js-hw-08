@@ -76,7 +76,7 @@ function createGallery(images) {
       alt="${image.description}"
     />
     </a>
-    </li>    
+    </li>
     `).join('');
 }
 
